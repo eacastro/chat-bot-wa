@@ -57,7 +57,7 @@ Familiarízate con:
 
         Manejar flujos condicionales
 
-🧪 Etapa 4: Desarrollo y prueba
+## 🧪 Etapa 4: Desarrollo y prueba
 1. Diseñar y probar el bot
 
     Crea los intents más frecuentes:
@@ -72,7 +72,7 @@ Familiarízate con:
 
     Crea una versión "sandbox" para testear sin afectar clientes reales.
 
-🚀 Etapa 5: Despliegue y monitoreo
+## 🚀 Etapa 5: Despliegue y monitoreo
 1. Despliegue
 
     Usa servidores como:
